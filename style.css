@@ -38,7 +38,7 @@ h2{
     box-shadow: 10px 10px 40px gray;
 }
 #ex-1{
-    border-image: linear-gradient(rgb(240, 65, 46),tomato);
+    border-image: linear-gradient(rgb(233, 46, 240),tomato);
     border-left:7px solid;
     border-image-slice:1;
 }
